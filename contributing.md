@@ -187,4 +187,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Overwatch · Updated 2026-11-26 · Shared under the MIT License*
+*Overwatch · Updated 2026-11-27 · Shared under the MIT License*
